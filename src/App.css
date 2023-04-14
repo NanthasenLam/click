@@ -27,3 +27,7 @@ body {
 .clearButton {
     margin-left: 8px;
 }
+
+.location {
+    text-align: center
+}
